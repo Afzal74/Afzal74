@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Afzal Basheer, a student pursuing B.E.<br><br>- 🔭 I’m currently learning React and MERN stack<br>- 📚 In my free time I play chess and read books<br>- ⚡ 
+<p align="left">I'm Afzal Basheer, a student pursuing B.E.<br><br>- 🔭 I’m currently learning React and MERN stack<br>- 📚 In my free time I play chess and read books<br>- ⚡ MITk - Kundapura
 
 ###
 
