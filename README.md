@@ -62,5 +62,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
+<br>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal74&" alt="afzal-basheer" /></p>
 
 ####
