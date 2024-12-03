@@ -48,4 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="30" alt="Azure" />
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal74&theme=radical&hide_border=true" width="100%" height="220" alt="GitHub streak stats" /> </div> <br> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Afzal74&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="180" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal74&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" /> </div>
+<h3 align="center">📊 GitHub Stats</h3> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal74&theme=radical&hide_border=true" width="100%" height="220" alt="GitHub streak stats" /> <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afzal74&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal74&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
