@@ -21,6 +21,8 @@
 <p align="center">
     🌱 I’m currently learning React and the MERN stack.<br> 
     🎯 Passionate about building user-friendly and scalable web apps.<br> 
+    🤖 Specialized in integrating Artificial Intelligence into projects.<br>
+    🎨 Skilled in Canva for creative design and branding.<br>
     📚 In my free time, I enjoy playing chess and reading books.<br> 
     🏫 Currently pursuing B.E. in Computer Science at MITk - Kundapura.<br>
 </p>
@@ -46,9 +48,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="30" alt="Azure" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="30" alt="PyTorch" />
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal74&theme=radical&hide_border=true" width="100%" height="220" alt="GitHub streak stats" /> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afzal74&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal74&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+<h3 align="center">📊 GitHub Stats</h3> 
+<div align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal74&theme=radical&hide_border=true" width="100%" height="220" alt="GitHub streak stats" />
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Afzal74&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal74&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+    </div>
 </div>
