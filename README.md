@@ -60,4 +60,5 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Afzal74&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal74&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
     </div>
-</div>
+</div><br>
+
