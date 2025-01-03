@@ -19,7 +19,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-    🌱 I’m currently learning React and the MERN stack.<br> 
+    🌱 I’m currently learning MERN stack.<br> 
     🎯 Passionate about building user-friendly and scalable web apps.<br> 
     🤖 Specialized in integrating Artificial Intelligence into projects.<br>
     🎨 Skilled in Canva for creative design and branding.<br>
